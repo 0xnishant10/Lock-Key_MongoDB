@@ -21,9 +21,9 @@ It allows users to securely manage their passwords with features like **add**, *
 ---
 
 ## 🛠️ Installation & Setup
-
-### 📁 Frontend
 ````
+### 📁 Frontend
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/0xnishant10/Lock-Key_MongoDB
