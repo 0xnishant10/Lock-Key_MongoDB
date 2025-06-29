@@ -1,12 +1,91 @@
-# React + Vite
+Here’s a clean and professional `README.md` file based on what you shared — you can copy-paste this directly into your repo:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+````markdown
+# 🔐 Lock & Key – A Password Manager
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A full-stack password manager app built with **React**, **Tailwind CSS**, **Express.js**, and **MongoDB**.  
+It allows users to securely manage their passwords with features like **add**, **edit**, **delete**, and **copy to clipboard**.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- Store passwords securely
+- Edit and delete existing passwords
+- Copy passwords to clipboard with a single click
+- Clean and responsive UI built with Tailwind CSS
+- Real-time updates using React state management
+
+---
+
+## 🛠️ Installation & Setup
+
+### 📁 Frontend
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/0xnishant10/Lock-Key_MongoDB
+   cd Lock-Key_MongoDB
+````
+
+2. Install dependencies:
+
+   ```
+   npm install
+   ```
+
+3. Start the React development server:
+
+   ```
+   npm run dev
+   ```
+
+---
+
+### 🖥️ Backend
+
+1. Navigate to the backend folder:
+
+   ```
+   cd backend
+   ```
+
+2. Install dependencies (if not already):
+
+   ```
+   npm install
+   ```
+
+3. (Optional but recommended) Install **nodemon** globally for auto-reloading:
+
+   ```
+   npm install -g nodemon
+   ```
+
+4. Start the backend server:
+
+   ```
+   npx nodemon server.js
+   ```
+
+---
+
+## 📦 Tech Stack
+
+* **Frontend:** React, Tailwind CSS
+* **Backend:** Express.js, Node.js
+* **Database:** MongoDB (via Mongoose)
+
+---
+
+## 📄 License
+
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+---
+
+## ✍️ Author
+
+Made with 💻 by [@0xnishant10](https://github.com/0xnishant10)
