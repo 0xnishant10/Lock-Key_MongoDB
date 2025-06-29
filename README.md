@@ -25,6 +25,7 @@ It allows users to securely manage their passwords with features like **add**, *
    git clone https://github.com/0xnishant10/Lock-Key_MongoDB
    cd Lock-Key_MongoDB
 
+2. Add your .env file in the backend folder. Then add your MONGO_URI in the .env file
 
 2. Install dependencies:
 
