@@ -27,8 +27,10 @@ It allows users to securely manage their passwords with features like **add**, *
 1. Clone the repository:
    ```
    git clone https://github.com/0xnishant10/Lock-Key_MongoDB
+   ```
+   ```
    cd Lock-Key_MongoDB
-````
+   ```
 
 2. Install dependencies:
 
