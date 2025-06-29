@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` file based on what you shared — you can copy-paste this directly into your repo:
-
----
-
-
 # 🔐 Lock & Key – A Password Manager
 
 
