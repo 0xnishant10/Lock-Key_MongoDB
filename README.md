@@ -2,8 +2,9 @@ Here’s a clean and professional `README.md` file based on what you shared — 
 
 ---
 
-````markdown
+
 # 🔐 Lock & Key – A Password Manager
+
 
 A full-stack password manager app built with **React**, **Tailwind CSS**, **Express.js**, and **MongoDB**.  
 It allows users to securely manage their passwords with features like **add**, **edit**, **delete**, and **copy to clipboard**.
@@ -21,7 +22,7 @@ It allows users to securely manage their passwords with features like **add**, *
 ---
 
 ## 🛠️ Installation & Setup
-````
+
 ### 📁 Frontend
 
 1. Clone the repository:
