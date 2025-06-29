@@ -25,22 +25,20 @@ It allows users to securely manage their passwords with features like **add**, *
 ### 📁 Frontend
 
 1. Clone the repository:
-   ```
+   ```bash
    git clone https://github.com/0xnishant10/Lock-Key_MongoDB
-   ```
-   ```
    cd Lock-Key_MongoDB
-   ```
+````
 
 2. Install dependencies:
 
-   ```
+   ```bash
    npm install
    ```
 
 3. Start the React development server:
 
-   ```
+   ```bash
    npm run dev
    ```
 
@@ -50,25 +48,25 @@ It allows users to securely manage their passwords with features like **add**, *
 
 1. Navigate to the backend folder:
 
-   ```
+   ```bash
    cd backend
    ```
 
 2. Install dependencies (if not already):
 
-   ```
+   ```bash
    npm install
    ```
 
 3. (Optional but recommended) Install **nodemon** globally for auto-reloading:
 
-   ```
+   ```bash
    npm install -g nodemon
    ```
 
 4. Start the backend server:
 
-   ```
+   ```bash
    npx nodemon server.js
    ```
 
